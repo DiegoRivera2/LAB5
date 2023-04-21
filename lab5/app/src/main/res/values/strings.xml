@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Billboard_text">Billboard</string>
+    <string name="starwars_tittle">Star Wars Episodio 3. LA venganza de los Sith</string>
+    <string name="_9_8">9.8</string>
+</resources>
